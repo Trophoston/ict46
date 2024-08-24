@@ -1,0 +1,9 @@
+success
+
+error
+
+warning
+
+info
+
+question

@@ -1,0 +1,10 @@
+@font-face {
+    font-family: open;
+    src: url("../font/OpenSans-Medium.ttf");
+}
+
+body, html {
+    padding: 0;
+    margin: 0;
+    font-family: open;
+}
